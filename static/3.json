@@ -1,0 +1,34 @@
+{
+  "id": 3,
+  "title": "Maison familiale a vendre",
+  "description": " Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At veroeos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+  "sellingPrice": 2500000,
+  "category": {
+    "id": 1,
+    "name": "Maison",
+    "imageUrl": "category/home.png"
+  },
+  "numberOfRooms": 10,
+  "numberOfToilets": 2,
+  "numberOfBedRooms": 3,
+  "numberOfKitchens": 1,
+  "numberOfLivingRooms": 1,
+  "country": "Cameroun",
+  "city": "Yaounde",
+  "option": {
+    "id": 2,
+    "name": "vendre"
+  },
+  "surface": 500.0,
+  "floorsNumber": null,
+  "availabilityDate": "2023-02-22T16:18:04Z",
+  "createdDate": "2023-02-22T16:18:04Z",
+  "rentPrice": null,
+  "caution": null,
+  "address": "Biyem-assi",
+  "imageList": [
+    "item/house_exterior.jpg",
+    "item/house_interior.jpg",
+    "item/interior.jpg"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Maison",
+        "imageUrl": "category/home.png"
+    },
+    {
+        "id": 2,
+        "name": "Immeuble",
+        "imageUrl": "category/building.png"
+    },
+    {
+        "id": 3,
+        "name": "Garage",
+        "imageUrl": "category/garage.png"
+    },
+    {
+        "id": 4,
+        "name": "Appartement",
+        "imageUrl": "category/apartment.png"
+    },
+    {
+        "id": 5,
+        "name": "Terrain",
+        "imageUrl": "category/land.png"
+    },
+    {
+        "id": 6,
+        "name": "Bureau",
+        "imageUrl": "category/office-desk.png"
+    }
+]

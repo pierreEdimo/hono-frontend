@@ -1,0 +1,34 @@
+{
+  "id":2,
+  "title":"Appartement 3 pieces meubles",
+  "description":" Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At veroeos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+  "sellingPrice":null,
+  "category":{
+    "id":2,
+    "name":"Appartement",
+    "imageUrl":"category/apartment.png"
+  },
+  "numberOfRooms":3,
+  "numberOfToilets":1,
+  "numberOfBedRooms":1,
+  "numberOfKitchens":0,
+  "numberOfLivingRooms":0,
+  "country":"Cameroun",
+  "city":"Yaounde",
+  "option":{
+    "id":1,
+    "name":"louer"
+  },
+  "surface":25.0,
+  "floorsNumber":2,
+  "availabilityDate":"2023-02-22T16:18:04Z",
+  "createdDate":"2023-02-22T16:18:04Z",
+  "rentPrice":75000,
+  "caution":450000,
+  "address":"Biyem-assi",
+  "imageList":[
+    "item/house_exterior.jpg",
+    "item/house_interior.jpg",
+    "item/interior.jpg"
+  ]
+}
